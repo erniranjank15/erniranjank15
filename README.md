@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Er. Niranjan Kasote</h1>
-<h3 align="center">Full Stack Developer | Python | React | FastAPI | MongoDB</h3>
+<h3 align="center">Full Stack Developer | Python | React | FastAPI | MongoDB | Express JS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+FastAPI+%7C+MongoDB;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+FastAPI+%7C+MongoDB+%7c+Express JS;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
