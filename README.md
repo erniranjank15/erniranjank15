@@ -9,12 +9,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in CSE from Ashokrao Mane Group of Institutions (2021–2025)
+- 🎓 B.Tech in CSE(2021–2025)
 - 💼 Full Stack Developer with experience in Frontend, Backend & Full-Stack projects
 - 🔭 Currently working on scalable web applications
 - 🌱 Exploring Node.js, Express.js and system design
 - 📍 Kolhapur, Maharashtra, India
-- 📫 Reach me at **kasoteniranjan23@gmail.com**
+- 📫 Reach me at **erniranjank15@gmail.com**
 
 ---
 
@@ -75,7 +75,7 @@
   <a href="https://linktr.ee/niranjankasote" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
-  <a href="mailto:kasoteniranjan23@gmail.com">
+  <a href="mailto:erniranjank15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
